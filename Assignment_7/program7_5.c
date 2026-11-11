@@ -18,7 +18,6 @@ void MultipleDisplay(int iNo)
         printf("\t"); 
         
     }
-   
 
     
 }
